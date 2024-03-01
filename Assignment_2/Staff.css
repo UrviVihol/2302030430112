@@ -1,0 +1,107 @@
+.navbar-child1 {
+  height: 4.375rem;
+  width: 90rem;
+  position: relative;
+  background-color: var(--color-burlywood);
+  display: none;
+  max-width: 100%;
+}
+.lavishteak-high-resolution-log-icon4 {
+  height: 3.206rem;
+  width: 9.5rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.about5,
+.contact5,
+.home5,
+.services6,
+.staff5 {
+  position: relative;
+  z-index: 1;
+}
+.staff5 {
+  text-decoration: underline;
+}
+.about-rectangle {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: var(--gap-xl);
+}
+.navbar4,
+.staff-frame {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.staff-frame {
+  width: 23.875rem;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.navbar4 {
+  align-self: stretch;
+  background-color: var(--color-burlywood);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-xl) var(--padding-3xs);
+  gap: var(--gap-510xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--sub-head-size);
+  color: var(--color-darkslateblue);
+  font-family: var(--sub-head);
+}
+.about-1-icon,
+.staff4 {
+  position: relative;
+  overflow: hidden;
+}
+.about-1-icon {
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 2;
+  margin-top: -0.625rem;
+}
+.staff4 {
+  width: 100%;
+  background-color: var(--simple-grid);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .navbar4 {
+    gap: var(--gap-510xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .about-rectangle {
+    display: none;
+  }
+  .staff-frame {
+    width: 0;
+  }
+  .navbar4 {
+    gap: var(--gap-510xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .navbar4 {
+    gap: var(--gap-510xl);
+  }
+}

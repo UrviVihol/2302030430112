@@ -1,0 +1,313 @@
+.header-frame {
+  width: 15.625rem;
+  height: 31.25rem;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -15.312rem;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+}
+.navbar-child3 {
+  height: 4.375rem;
+  width: 90rem;
+  position: relative;
+  background-color: var(--color-burlywood);
+  display: none;
+  max-width: 100%;
+}
+.lavishteak-high-resolution-log-icon6 {
+  height: 3.206rem;
+  width: 9.5rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.about7,
+.contact7,
+.home7 {
+  position: relative;
+  z-index: 1;
+}
+.services8 {
+  text-decoration: underline;
+}
+.services8,
+.staff7 {
+  position: relative;
+  z-index: 1;
+}
+.home-about-contact-services-st1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-xl);
+}
+.logos-row,
+.navbar6 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.logos-row {
+  width: 23.813rem;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.navbar6 {
+  align-self: stretch;
+  background-color: var(--color-burlywood);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-xl) var(--padding-3xs);
+  gap: var(--gap-510xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--sub-head-size);
+  color: var(--color-darkslateblue);
+  font-family: var(--sub-head);
+}
+.circle-pair {
+  width: 15.625rem;
+  height: 31.25rem;
+  right: -1.25rem;
+  bottom: 6.875rem;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+}
+.circle-pair,
+.circle-pair1,
+.partner-logo {
+  position: absolute;
+  margin: 0 !important;
+}
+.circle-pair1 {
+  width: 15.625rem;
+  height: 31.25rem;
+  top: 15rem;
+  left: -1.312rem;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+}
+.partner-logo {
+  width: calc(100% - 405.5px);
+  height: calc(100% - 414.4px);
+  top: 0.001rem;
+  right: -18.094rem;
+  bottom: 25.899rem;
+  left: 43.438rem;
+  border-radius: var(--br-11xl);
+  background-color: rgba(218, 192, 163, 0.5);
+  box-shadow: 5px 5px 15px #4d4d4d;
+  filter: blur(20px);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.our-trusted-partners {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.home-interiors-logo-1-icon,
+.ikea-logo-1-icon {
+  position: relative;
+  max-width: 100%;
+  object-fit: cover;
+  z-index: 2;
+}
+.ikea-logo-1-icon {
+  width: 21.875rem;
+  height: 7.844rem;
+}
+.home-interiors-logo-1-icon {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instacart-logo-1-icon,
+.opencart-logo-1-icon {
+  width: 21.875rem;
+  height: 4.275rem;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 2;
+}
+.instacart-logo-1-icon {
+  height: 6.394rem;
+}
+.empty-circle-frame,
+.our-trusted-partners1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-trusted-partners1 {
+  width: 26.375rem;
+  height: 38.25rem;
+  gap: 3.75rem 0;
+}
+.empty-circle-frame {
+  width: 87.438rem;
+  margin: 0 !important;
+  position: absolute;
+  top: -6.625rem;
+  left: 1.313rem;
+  padding: 11.938rem var(--padding-xl) 20.063rem 1.375rem;
+  box-sizing: border-box;
+  gap: 6.75rem 0;
+  min-height: 87.375rem;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-junge);
+}
+.career-btn-inner,
+.end5 {
+  background-color: var(--color-dimgray-200);
+}
+.end5 {
+  width: 100%;
+  height: 0.875rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+.career-btn-inner {
+  height: 4.063rem;
+  width: 15.938rem;
+  position: relative;
+  border-radius: var(--br-31xl);
+  display: none;
+}
+.career2 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-junge);
+  color: var(--color-white);
+  text-align: center;
+  z-index: 1;
+}
+.career-btn2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-40xl) var(--padding-base)
+    var(--padding-39xl);
+  background-color: var(--color-dimgray-200);
+  width: 15.938rem;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.career-btn2:hover {
+  background-color: var(--color-dimgray-100);
+}
+.social-icon5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.career-button-frame,
+.ourpartners {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.career-button-frame {
+  width: 44.875rem;
+  height: 19.438rem;
+  padding: 0 var(--padding-xl);
+  gap: 10.313rem 0;
+  max-width: 100%;
+}
+.ourpartners {
+  width: 100%;
+  position: relative;
+  background-color: var(--simple-grid);
+  overflow: hidden;
+  padding: 0 0 6.688rem;
+  gap: 65.188rem 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .navbar6 {
+    gap: var(--gap-510xl);
+  }
+}
+@media screen and (max-width: 1025px) {
+  .our-trusted-partners {
+    font-size: var(--font-size-21xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .home-about-contact-services-st1 {
+    display: none;
+  }
+  .logos-row {
+    width: 0;
+  }
+  .navbar6 {
+    gap: var(--gap-510xl);
+  }
+  .career-button-frame {
+    gap: 10.313rem 0;
+  }
+  .ourpartners {
+    gap: 65.188rem 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navbar6 {
+    gap: var(--gap-510xl);
+  }
+  .our-trusted-partners {
+    font-size: var(--font-size-11xl);
+  }
+  .career2 {
+    font-size: var(--font-size-xl);
+  }
+  .career-btn2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .career-button-frame {
+    gap: 10.313rem 0;
+  }
+  .ourpartners {
+    gap: 65.188rem 0;
+  }
+}

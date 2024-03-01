@@ -1,0 +1,603 @@
+.rectangle-div {
+  height: 4.375rem;
+  width: 90rem;
+  position: relative;
+  background-color: var(--color-burlywood);
+  display: none;
+  max-width: 100%;
+}
+.lavishteak-high-resolution-log-icon3 {
+  height: 3.206rem;
+  width: 9.5rem;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.about4,
+.contact4,
+.home4 {
+  position: relative;
+  z-index: 1;
+}
+.services5 {
+  text-decoration: underline;
+}
+.services5,
+.staff3 {
+  position: relative;
+  z-index: 1;
+}
+.ms-maggie-message {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-xl);
+}
+.mask-group-frame,
+.navbar3 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.mask-group-frame {
+  width: 23.813rem;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.navbar3 {
+  align-self: stretch;
+  background-color: var(--color-burlywood);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-xl) var(--padding-3xs);
+  gap: var(--gap-510xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--sub-head-size);
+  color: var(--color-darkslateblue);
+  font-family: var(--sub-head);
+}
+.text-ellipse-pair {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+}
+.frame-ellipse-pair {
+  height: 41rem;
+  width: 9.375rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22.25rem 0 0;
+  box-sizing: border-box;
+}
+.service-1-icon,
+.voices-of-elegance-text-child {
+  position: relative;
+  border-radius: var(--br-11xl);
+  display: none;
+  max-width: 100%;
+}
+.service-1-icon {
+  height: 45.688rem;
+  width: 66.563rem;
+  object-fit: cover;
+}
+.voices-of-elegance-text-child {
+  height: 31.25rem;
+  width: 34.375rem;
+  background-color: var(--color-indianred-200);
+}
+.elegantteak-furnishings,
+.greengrove-artisan-furniture,
+.heritagewood-collection,
+.luxewood-designs,
+.natures-edge-furnishings,
+.purewood-environments,
+.teakcraft-creations,
+.timeless-timber-services,
+.tranquiltimber-interiors {
+  margin-bottom: false;
+}
+.teakcraft-creations-luxewood-d {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-21xl);
+}
+.teakcraft-creations-luxewood-container {
+  margin: 0;
+  height: 28.125rem;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.lavish-teak-frame,
+.voices-of-elegance-text {
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.voices-of-elegance-text {
+  width: 34.375rem;
+  background-color: var(--color-indianred-200);
+  align-items: center;
+  justify-content: center;
+  padding: 1.563rem var(--padding-2xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.lavish-teak-frame {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-54xl) 14.688rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 45.688rem;
+  max-width: calc(100% - 374px);
+}
+.frame-ellipse-pair-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+}
+.frame-ellipse-pair1,
+.navbar-container1,
+.our-partners-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-ellipse-pair1 {
+  height: 19.375rem;
+  width: 9.375rem;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+}
+.navbar-container1,
+.our-partners-frame {
+  align-self: stretch;
+  max-width: 100%;
+}
+.our-partners-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 2.313rem;
+}
+.navbar-container1 {
+  flex-direction: column;
+  padding: 0 0 0.75rem;
+  gap: 6.313rem 0;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-junge);
+}
+.voices-of-elegance {
+  margin: 0;
+  width: 33.625rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: var(--padding-xl);
+}
+.menu-section-frame {
+  width: 44.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.review-frame {
+  position: absolute;
+  top: 0.5rem;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+  width: 15.625rem;
+  height: 31.25rem;
+}
+.mask-group-icon,
+.mask-group-icon1 {
+  position: absolute;
+  left: 11.75rem;
+  width: 6.25rem;
+  height: 6.25rem;
+  object-fit: cover;
+  z-index: 1;
+}
+.mask-group-icon {
+  top: 0;
+}
+.mask-group-icon1 {
+  top: 12.625rem;
+}
+.mask-group-with-text {
+  height: 31.75rem;
+  width: 18rem;
+  position: relative;
+}
+.ms-maggie {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 400;
+  font-family: inherit;
+}
+.voices-of-elegance-text1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.impressed-lavish-teak-text-child {
+  height: 31.25rem;
+  width: 15.625rem;
+  position: absolute;
+  margin: 0 !important;
+  top: -19.25rem;
+  right: -11.687rem;
+  border-radius: 50%;
+  background-color: var(--color-indianred-100);
+  filter: blur(500px);
+}
+.lavishteak-exceeded-my {
+  margin: 0;
+  width: 45rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.impressed-lavish-teak-text,
+.servicebtn-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.impressed-lavish-teak-text {
+  flex: 1;
+  position: relative;
+  min-width: 29.25rem;
+}
+.servicebtn-frame {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 0 3.563rem;
+}
+.mr-trump {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  font-weight: 400;
+  font-family: inherit;
+}
+.mr-trump-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.impressed-by-lavishteaks {
+  margin: 0;
+  width: 45rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.ms-maggie-frame,
+.servicebtn-frame1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 3.875rem;
+  max-width: 100%;
+}
+.ms-maggie-frame {
+  flex-direction: column;
+  gap: 9.625rem 0;
+}
+.service-btn-item {
+  height: 4.063rem;
+  width: 15.938rem;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-dimgray-200);
+  display: none;
+}
+.our-partners {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-junge);
+  color: var(--color-white);
+  text-align: center;
+  z-index: 1;
+}
+.service-btn1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-base) 1.188rem;
+  background-color: var(--color-dimgray-200);
+  width: 15.938rem;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.service-btn1:hover {
+  background-color: var(--color-dimgray-100);
+}
+.end-rectangle,
+.mask-group-ellipse {
+  display: flex;
+  justify-content: flex-start;
+}
+.end-rectangle {
+  width: 26.563rem;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.mask-group-ellipse {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 10.063rem 0;
+  max-width: calc(100% - 368px);
+}
+.frame-ellipse-pair-with-text {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 5rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-junge);
+}
+.frame-ellipse-pair-with-text,
+.service-button-frame,
+.social-frame2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.social-frame2 {
+  width: 79.563rem;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 6.563rem 0;
+}
+.service-button-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--sub-head);
+}
+.end3 {
+  width: 100%;
+  height: 0.875rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-dimgray-200);
+}
+.social-icon3 {
+  width: 42.375rem;
+  height: 5.081rem;
+  position: relative;
+  max-width: 100%;
+}
+.services4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--simple-grid);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 6.875rem;
+  box-sizing: border-box;
+  gap: 10.75rem 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .navbar3 {
+    gap: var(--gap-510xl);
+  }
+  .lavish-teak-frame {
+    padding-left: var(--padding-98xl);
+    padding-right: var(--padding-98xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .frame-ellipse-pair {
+    display: none;
+  }
+  .teakcraft-creations-luxewood-container {
+    font-size: var(--font-size-5xl);
+  }
+  .lavish-teak-frame {
+    max-width: 100%;
+  }
+  .frame-ellipse-pair1 {
+    display: none;
+  }
+  .our-partners-frame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .voices-of-elegance {
+    font-size: var(--font-size-21xl);
+  }
+  .mask-group-with-text {
+    display: none;
+  }
+  .servicebtn-frame1 {
+    flex-wrap: wrap;
+    gap: 0 3.875rem;
+  }
+  .ms-maggie-frame {
+    gap: 9.625rem 0;
+  }
+  .mask-group-ellipse {
+    gap: 10.063rem 0;
+    max-width: 100%;
+  }
+  .frame-ellipse-pair-with-text {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .ms-maggie-message {
+    display: none;
+  }
+  .mask-group-frame {
+    width: 0;
+  }
+  .navbar3 {
+    gap: var(--gap-510xl);
+  }
+  .frame-ellipse-pair {
+    padding-top: 14.438rem;
+    box-sizing: border-box;
+  }
+  .voices-of-elegance-text {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .lavish-teak-frame {
+    padding: 2.938rem var(--padding-39xl);
+    box-sizing: border-box;
+  }
+  .our-partners-frame {
+    gap: 0 2.313rem;
+  }
+  .navbar-container1 {
+    gap: 6.313rem 0;
+  }
+  .impressed-lavish-teak-text {
+    min-width: 100%;
+  }
+  .frame-ellipse-pair-with-text {
+    gap: 0 5rem;
+  }
+  .social-frame2 {
+    gap: 6.563rem 0;
+  }
+  .services4 {
+    gap: 10.75rem 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navbar3 {
+    gap: var(--gap-510xl);
+  }
+  .teakcraft-creations-luxewood-container {
+    font-size: var(--font-size-lg);
+  }
+  .lavish-teak-frame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .navbar-container1 {
+    gap: 6.313rem 0;
+  }
+  .voices-of-elegance {
+    font-size: var(--font-size-11xl);
+  }
+  .lavishteak-exceeded-my,
+  .ms-maggie {
+    font-size: var(--font-size-base);
+  }
+  .servicebtn-frame {
+    gap: 0 3.563rem;
+  }
+  .impressed-by-lavishteaks,
+  .mr-trump {
+    font-size: var(--font-size-base);
+  }
+  .servicebtn-frame1 {
+    gap: 0 3.875rem;
+  }
+  .ms-maggie-frame {
+    gap: 9.625rem 0;
+  }
+  .mask-group-ellipse {
+    gap: 10.063rem 0;
+  }
+  .frame-ellipse-pair-with-text {
+    gap: 0 5rem;
+  }
+  .social-frame2 {
+    gap: 6.563rem 0;
+  }
+  .services4 {
+    gap: 10.75rem 0;
+  }
+}
